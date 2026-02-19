@@ -3,4 +3,4 @@
  License: GPLv3
  */
 
-#include "..\/EMUG29PS4\/emu.c"
+#include "../EMUG29PS4/emu.c"
